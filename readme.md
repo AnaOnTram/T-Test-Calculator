@@ -2,7 +2,7 @@
 
 A Python-based graphical application for calculating p-values from t-scores and degrees of freedom (df). This tool supports both one-tailed and two-tailed t-tests and provides statistical significance interpretation.
 
-## Prerequisites
+## Prerequisites 
 
 Before running the application, ensure you have the following installed:
 - Python 3.x
@@ -11,7 +11,7 @@ Before running the application, ensure you have the following installed:
 ## Installation
 
 1. Clone or download the repository to your local machine
-2. Install the required dependency (SciPy) recommended to use virtual environments using conda:
+2. Install the required dependency (recommended to use virtual environments like conda):
    ```bash
    pip install scipy
    ```
